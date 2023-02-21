@@ -1,7 +1,7 @@
 {
   "name": "idp-authentication",
   "version": "1.0.1-2",
-  "description": "Identity Provider Authentication Library for Various Frameworks",
+  "description": "Identity Provider Authentication Library for Various Identity Providers and Frameworks",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
