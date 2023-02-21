@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scaffoldly/idpauth.git"
+    "url": "git+https://github.com/scaffoldly/idp-authentication.git"
   },
   "files": [
     "dist/**/*"
@@ -26,9 +26,9 @@
   "license": "GPL-3.0-or-later",
   "author": "Christian Nuss",
   "bugs": {
-    "url": "https://github.com/scaffoldly/idpauth/issues"
+    "url": "https://github.com/scaffoldly/idp-authentication/issues"
   },
-  "homepage": "https://github.com/scaffoldly/idpauth#readme",
+  "homepage": "https://github.com/scaffoldly/idp-authentication#readme",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.4.1",
     "@typescript-eslint/parser": "^4.17.0",
