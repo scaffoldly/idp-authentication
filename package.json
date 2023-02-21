@@ -1,6 +1,6 @@
 {
   "name": "idpauth",
-  "version": "1.0.0-2",
+  "version": "1.0.0-3",
   "description": "Identity Provider Authentication Library",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
